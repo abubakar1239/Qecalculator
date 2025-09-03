@@ -1,0 +1,2 @@
+# Qecalculator
+Quadratic equation calculator 
